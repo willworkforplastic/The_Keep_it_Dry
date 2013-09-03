@@ -25,3 +25,6 @@ Now for the borring rev history:
 
 1/12/2012:
 Intial Release
+
+3/09/2013:
+Added in Door bracing to prevent door warpage from occuring resulting in loss of sealing around foam seal.
